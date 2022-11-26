@@ -1,2 +1,2 @@
 # NM-Assignment
-i have created this remo for my numerical method assignemnts
+i have created this repo for my numerical method assignments
